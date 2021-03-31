@@ -1,5 +1,7 @@
+# frozen_string_literal: true
+
 # require database cleaner at the top level
-require 'database_cleaner'
+require "database_cleaner"
 
 # [...]
 # configure shoulda matchers to use rspec as the test framework and full matcher libraries for rails

@@ -6,6 +6,9 @@
 
   ## Testing
    - `rspec` || `bundle exec rspec`
+
+  ## Rubocop fix
+    `rubocop -A` || `bundle exec rubocop -A`
    
 
   Enjoy it! (I'm using postman to enjoy this code ^^)
@@ -34,3 +37,4 @@ Things you may want to cover:
 * References
  
  - https://medium.com/@oliver.seq/creating-a-rest-api-with-rails-2a07f548e5dc
+ - https://github.com/rails/rails/blob/main/.rubocop.yml
